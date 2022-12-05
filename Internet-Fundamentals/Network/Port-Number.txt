@@ -1,0 +1,16 @@
+PORT NUMBER 
+
+# Each & Every IP Address do have an Port number associated with it.
+
+# Basically port number is the one which decides which service ( webpage, Email) or Program the user have to see. 
+
+# netstat -n [ This command on your computer displays all the active connections on your system 
+
+# 0  - 1023 = System  or well  Known [ Server side ] 
+
+  1024 - 49151 = User or Registered Ports ( Registered by companies or developers ) [ Server side ] 
+
+  49152 - 65535 = Dynamic or Private Ports [ These are the ports that your computer assigns temporarily to itself during a session ] 
+
+
+# 80 - HTTP , 443 - HTTPS 

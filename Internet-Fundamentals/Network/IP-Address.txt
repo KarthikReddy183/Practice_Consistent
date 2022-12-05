@@ -1,0 +1,26 @@
+IP ADDRESS
+
+# Each network running TCP/IP must have a unique network number, and      
+  every machine on it must have a unique IP address. 
+
+# IP ADDRESS = Network Part + Host Part 
+
+  Ex: 129.39 + 50.56
+
+# IP Address Uniquely Identifies your Machine on Internet 
+
+# This form of representing the bytes of an IP address is often    
+  referred to as the dotted-decimal format.
+
+# Network Part  : This part specifies the unique number assigned to 
+                  your network. 
+
+# Host Part : This is the part of the IP address that you assign to each host. It uniquely identifies this machine on your network.
+ 
+            : Note that for each host on your network, the network part of the address will be the same, but the host part must be different.
+
+
+* So if two devices are on same network then the network part of the IP address will be same for the both, but the Host part will be different. 
+
+
+* IP Address may get changed when we change the networks or turn off and on the network. 

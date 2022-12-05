@@ -1,0 +1,94 @@
+Input Devices & Peripherals
+
+1.KeyBoard : It typically comes with a 6pin DIN or USB. we can connect it to computer with DIN / USB. DIN is a connector same as like USB
+
+2. MOUSE 
+
+3. Digital Camera : Can take pictures & store them in Internal Hard drive or SD card. 
+
+4. Bar code reader : This is being used in Shops to read the bar code of a specific item and get the details of it. Uses Light to scan the codes. Trigger type         
+                     bar code is the most popular one. 
+
+5. Scanner  : A device that enables you to put a digital copy of a Physical copy ( Ex: paper, doc.. etc ) on your computer. 
+
+6. Touch Screen : 
+
+7. Web Cam : It does have a built in Microphone to capture the audio. Logitech & Microsoft are two of the biggest Manufacturers of Web cams. 
+
+8. Media Card : Gives computer ability to read Memory cards from devices. Has slots to accomodate various sizes of memory cards. This is connected to computer 
+                with the help of USB & then we can insert memory cards into the slots of card reader. 
+
+9. Docking Station : Instead of connecting all the Peripherals to your laptop, you can connect your laptop to docking station & connect the rest of 
+                     peripherals to docing station & use them. 
+
+10. KVM Switch ( Learn ) : Keyboard Video Mouse switch that lets you to connect 1 set of Keyboard & Mouse to two PC's at a time. 
+
+11. Smart TV : TV combined with a computer. 
+
+12. Smart card : Ex: Credit cards, debit, these are cards that which comes with a built in Embbeded Microprocesser chip. 
+
+13. Bio-metric Scanner/Device : Ex: Fingerprint Scannner
+
+14. Motion Sensor: 
+
+15. Digitizer : 
+
+16. Game pods & Joy sticks
+
+
+
+
+MONITORS 
+
+1. CRT Monitor : Cathode Ray Tube monitors are bulk & heavy which are the first type of computers used. Uses 3 electron guns ( Red,blue,Green) 
+                 These 3 guns will create image on th screen & These guns sweep on the screen of the monitor many times per sec which we call as RefreshRate
+                 If refresh rate = 60HZ then these guns draws the image for 60 times per sec on the screen
+
+
+# Inside CRT monitor there is a metal plate called Shadow Mask. Shadow mask can pick up outside magnetic fields which can cause discoloration. 
+
+# Degaussing : This method will get rid of un-wanted magnetic field on the screen whenever the Monitor turns on. 
+
+
+2. LCD Monitor  : Liquid Crystal Display. Produces the image on flat surface by using Liquid crystals. Light shines through these crystals to produce image.
+
+                  TFT (thin film transistor) creates high quality image  
+
+
+3. Resolution : It is defined as Number of Pixels that are used to display image on the screen. ex: 1280 x 720 = 921,600 pixels are being used to dispaly 
+                the image. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

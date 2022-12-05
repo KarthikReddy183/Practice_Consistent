@@ -1,0 +1,16 @@
+HTTP ( HyperText Transfer Protocol )
+
+* HTTP is a protocol that which transfers the data  from our machine to web server in clear text format over the internet. This is quite risky as it might be hacked by someone and data gets leaked 
+
+HTTPS ( Secure HyperText Transfer Protocol )
+
+* This HTTPS will exchange the data in an encrypted format over the internet so that it will be tough for someone steal your information 
+
+There are two Protocols used for this 
+
+1. SSL Security Socket Layer  : When the device go to web server then it will ask the server for a certificate & after verifying it, device sends a message 
+                                acknowledging that we can proceed exchanging the Encrypted data. 
+
+2. TLS Transport layer security : Uses Pesudo-random Format to create Master secret. This more secured than SSL 
+
+# As SSL is deprecated now TSL is being used widely all over the world. 

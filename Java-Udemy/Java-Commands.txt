@@ -1,0 +1,12 @@
+Common Java Termina Commands 
+
+1. javac - This will compileyour code from human readable format to Byte code and stores it in .class file 
+
+           Ex: javac HelloWorld.java  [ in this command .java extension is must ] 
+
+2. java - This command will executes your Byte format code 
+
+           ex: java HelloWorld [ Here there is no need of .java / .class extension !! ] 
+
+
+3. Website : https://www.learnthepart.com/course/2dfda34d-6bbc-4bd5-8f45-d5999de2f514/3aad4649-1ad4-4fdb-9407-c3bd7cce88ec

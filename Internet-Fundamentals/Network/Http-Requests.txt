@@ -1,0 +1,10 @@
+HTTP REQUESTS 
+
+1. GET : The client is requesting an response form server 
+
+2. POST : Client is sending some data to the server and server will create resource 
+
+3. PUT : This is also similar to POST but it will entierly change/Modify the data of exisiting resource or will create a new resource on server of nothing is 
+         found 
+
+4. PATCH : This will modify a cretain part of data on server 

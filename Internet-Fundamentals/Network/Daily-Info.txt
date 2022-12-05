@@ -1,0 +1,7 @@
+New Information Learnt Daily 
+
+1. ipconfig : This will show the detailed information of the network 
+              you are connected to. 
+
+2. netstat -n : will show all the connections you made over the browser 
+                to some other servers. 

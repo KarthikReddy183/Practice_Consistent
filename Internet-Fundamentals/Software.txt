@@ -1,0 +1,13 @@
+Learn Clearly about 
+
+1. What is Tool  
+
+2. What is a Framework 
+
+3. What is a Library
+
+4. What is a Package 
+
+5. What is a SDK 
+
+6. What is a IDE 

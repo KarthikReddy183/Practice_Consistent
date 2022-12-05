@@ -1,0 +1,20 @@
+Inspecting A web page : https://developer.chrome.com/docs/devtools/network/?utm_source=devtools&utm_campaign=2019Q1
+
+
+
+
+# Learn a bit how DNS works 
+
+# Learn about IP address
+
+# DNS : The Domain Name System's main task is to find the IP Address associated with the given domain name. The process of finding the IP address is called as DNS Lookup.
+
+
+# Check what is HTTPS in youtube
+
+# Status code is something that which tells the client if anything goes worng or everything is fine!!
+
+# PORT NUMBER : not clearer about this topic
+
+# Learn clearly about HHTP Request methods [ GET, POST, PUT, PATCH, DELETE ]
+

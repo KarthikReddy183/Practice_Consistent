@@ -1,0 +1,15 @@
+DNS ( Domain Name System )
+
+# We humans do talk to each other by speaking out our names. What if we want to talk to computers & get the required website page for us ? 
+
+* Here comes DNS, Basically when we provide the Website name ( Ex: Google.com, Facebook.in ) then our computer will ask DNS for the IP ADDRESS of the website 
+
+Look at the below hirearchy  
+
+ Our Computer (provides Domain name ) -  DNS Resolver (will check in it's cache) - ROOT Server ( 13 sets of root servers in world, organized by 12 different 
+ organizers ) - TLD ( Top level domain Server ) This will stores the IP address of all the top level domains - Authoritive Name Server ( this is the final where we will be able to see  
+ each & every website's IP address ) 
+
+
+# Once our computer receives the IP address then it will store that it's Cache so that next time when user request for the same domain it can provide the                                                                                  
+  Webpage easily. 
