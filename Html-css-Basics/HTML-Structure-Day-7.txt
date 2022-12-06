@@ -1,0 +1,60 @@
+HTML Structure 
+
+
+# we have follow the below structure for creating web pages using HTML 
+  
+  <!Doctype = HTML>        : This doctype element is used to let the Webpage know that we are using an HTML document. 
+ 
+  <html>                   : The HTML element is a root element that defines the whole HTML document. 
+
+  <head>                   : In HEAD element we do use the content which is not displayed on the website. ex: webpage name, linking css file, adding fonts
+
+  </head>
+
+  <body>                   : Body element is used to display the content which we wanted to show to the user. 
+
+
+  </body> 
+
+  </html>
+ 
+
+
+
+
+# Inside the Head element there are two major elements which we can use 
+
+  1. <title> </title>  : This element is used to display the title of the webpage which we are using. 
+
+  2. <link> : this is a void element which do not have closing tag. do have two attributes 
+
+              i. rel : attribute specifies the relationship between the current document and the linked document.
+   
+              ii. href : This attribute is used to link the css file. 
+
+
+Note :  <style> </style> - If we don't create a seperate CSS file, then the Style element should be used inside the head element as per the HTML structure. 
+
+     
+
+1. An element inside a element is called as Nesting. ex: HTML Structure. 
+
+2. The LIVE SERVER Extension will not work properly if we doesn't have a proper HTML structure in our code. 
+
+3. VOID elements in HTML doesn't require a closing tag !!! 
+( There are multiple void elements : https://developer.mozilla.org/en-US/docs/Glossary/Void_element) 
+
+4. FILE PATHS : File paths in HTML are used to locate certain file when required. 
+
+   Syntax : href : " filename/html or css file name "
+
+
+5. GOOGLE FONTS : From this website we can find different types of Fonts which we can use for our website. We can add the link of those fonts in head element. 
+   
+                  ( Link  : https://fonts.google.com/ ) 
+
+
+
+
+
+ 

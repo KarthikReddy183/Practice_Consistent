@@ -1,0 +1,88 @@
+
+
+
+# In HTML if we want to design two buttons with same CSS properties, then we can give them both same CLASS NAME. 
+
+# In CSS Space between Two HTML elements in a website is called as MARGIN 
+
+# FONT property in CSS will be used to change the appearence of the TEXT which we have written inside a HTML Element 
+
+# COLOR Property is used to change the TEXT COLOR in CSS 
+
+
+
+
+
+
+HOWERS / TRANSITIONS / SHADOWS  IN CSS 
+
+1.HOVERS : Also called as Pesudo-Class. Basically these hovers will add extra style for HTML Elements 
+
+           These needs to be seperated from Styling code and written seperately. 
+
+           Ex: .btn-color:hover { background-color : grey; }  - Whatever styling we make here it only reflect when the user hover over the HTML element. 
+
+
+2. ACTIVE : In CSS Active Property will change the Styling of HTML element when we click on it 
+
+            Ex: .btn-color:active { background-color : yellow; }
+
+3. OPACITY : This Property in CSS is used to  [ Fade out / Fade In ]  the HTML Element. It can be done by providing values between 0 to 1 
+
+             Ex: .btn-color:active { opacity : 0.5; }
+           
+             Here 0 will completely fade out the element & 1 will make it visible clearly. 
+
+
+4. TRANSITION : Transition is something that which let's us to change the default changing time when we hover on a HTML Element. 
+   
+                Ex: .btn-color { opacity 1s; } here we need to provide two values [ one is the Property which is used in Hover Styling & another is timing 
+                     of transition ] 
+ 
+                In Transition property if we have to add multiple HTML Attributes then we can just add comma after each one of them 
+
+                Ex: .btn-color { background-color : red, color:blue;}
+
+
+5. SHADOWS : Shadows will create a transparent around the HTML element. 
+
+             Ex: .btn-tweet {box-shadow : 0,0,0,color;} 4 values need to be provided [ Horizental , Vertical , Blurred, Color ] 
+             
+             For Shadows to work properly we can use RGBA [ here A stands for Opacity ] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+          
+
+
+
+
+
+
+
+
+
+

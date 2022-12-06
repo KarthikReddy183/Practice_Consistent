@@ -1,0 +1,177 @@
+HTML - Hyper Text Markup Language 
+
+1.HTML ELEMENTS
+
+# HTML & CSS is used to create Websites that we use on daily basis
+
+# It is basically giving instructions to our computer how to display the website which we interact with. 
+
+
+# Whatever content we would like to show to the user we will write that inside the HTML ELEMENTS which will be wirtten inside SYNTAX 
+
+# In Coding if you don't follow the Rules of coding ( Syntax ) then computer cannot understand what kind of instruction we are giving. 
+
+# How do you write the HTML ELEMENTS 
+
+ Ex: <button>Hey man!!</button> 
+
+ * Here <> </> these are called as tags. Inside them we will write our HTML ELEMENTS & between them we will write our Content which we wanted to display on 
+   the website. 
+
+
+
+2. HTML ATTRIBUTES 
+
+# We Know that we use HTML ELEMENTS for displaying the content on our website. So what if we want to re-direct the user from our website to another here comes Attributes to help us 
+
+# HTML ATTRIBUTES are something that which tells what should the Elements need to do if some changes are required. 
+
+# Here for Example if we need to link an website then we need to use   [  <a> </a> = This is called as ANCHOR ELEMENT ] The Anchor element in HTML will re-direct the user to another website from current website. 
+
+# To make it happen we need to use HTML ATTRIBUTES to provide the link of the another website. there are certain rules for how to write the attributes inside a element. 
+
+
+Rules for Inserting Attributes inside HTML Elements
+
+* There should be space between Element & Attribute.
+
+* The Value of the Attribute should be covered inside inverted commas [ "" ] 
+
+* Ex: <a herf="google.com"> Go here </a>  here [ href is Attribute name, "google.com" is the website link, Go here is the text with which the link is    
+      associated to. 
+
+# If we don't mention any TARGET attribute for href, then the new website will open inside the same tab. If we want to open it in new tab then we must 
+  provide TARGET attribute after href 
+
+Ex : <a href="cricbuzz.com" target="_blank"> Virat stats </a>
+
+
+!!! The href & target Attributes will only work inside Anchor Element <a></a>  !!!
+
+
+## HTML WILL IGONRE THE EXTRA SPACES INSIDE OR OUTSIDE THE ATTRIBUTES OR ELEMENTS 
+
+## HTML WILL ALSO IGNORE THE NEW LINES OF OUR ELEMENTS. 
+
+## INDENT / INDENTATION is space between the start of the new line & code we write. We can change it in VSCODE in settings> tabsize [ default is 4 ] 
+
+#If we write the code for both the buttons side by side on same line then they will be view as side by side 
+
+ex: <button>hi</button> <button>bro</button> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

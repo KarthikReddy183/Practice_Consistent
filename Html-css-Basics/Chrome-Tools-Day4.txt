@@ -1,0 +1,60 @@
+
+Complete Excersie 4 at 1hr 16mins in video!!!!!!!!!!!!!!!!!!!!
+
+
+
+CHROME DEV TOOLS 
+
+1. INSPECT : Using this tool will help us to look into the HTML elements & CSS styles which are being displayed on a website. 
+
+2. Pointer Left top : This will help us to directly check the code of the respective HTML element by just clicking on it. 
+
+
+
+# By Default the Padding for a HTML element will be 6 for left & right || 1 for Top & Bottom. 
+
+
+CSS BOX MODEL [ Computed & Styling cloumns ] 
+
+4 main parts are considered for CSS BOX MODEL 
+
+1. Margin 
+2. Border 
+3. Padding 
+4. Content [ it will show the width & height of the web page too ] 
+
+# We can check each & every HTML element's CSS properties & it's BOX model by just clicking on them one after another. [ Computed ] 
+
+
+General Use-Case of CSS BOX MODEL
+
+# How much space a Element takes up [ Padding ]. 
+
+# How far it is away for other elements [ Margin ]. 
+
+
+# The Problem with Height & Width is as it is fixed when we provide extra content it will over flow. So instead we can use PADDING Property, So that it will 
+  adjust according to the Text or content it receives. 
+
+
+# By default all the HTML elements will be aligned vertically by web browser based on text. We can change it by using a CSS property called 
+  
+  Vertical Align : Direction 
+
+# Every element has : Spacing on outside i.e MARGIN, Spacing on Inside i.e PADDING, Also Border.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

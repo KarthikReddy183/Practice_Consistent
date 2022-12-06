@@ -1,0 +1,18 @@
+# <img> this element in HTML will helps us to display images on the website.
+
+# Whenever we set the Width of the Image, it will automatically adjusts the height of that image too!!
+
+# We can use different image CSS properties to change it's dimensions. 
+
+# Object-fit : This CSS property makes the Image fits as per the dimensions provided by the user. It will shrink the image untill it makes the image fit 
+               properly inside the border.
+
+# <img> this HTML element is a void element, which doesn't have an end tag. 
+
+# <input> - Input HTML element is used to create "Search Box" on a website, and we need to provide some attributes to make it more user-friendly. 
+
+            <input type = "text", placeholder = "Search" >    -  here type refers to which type of box we require, it can be a textbox, checkbox... 
+ 
+                                                              - Here Placeholder refers to which text should be displayed inside the text or check box..
+
+# 

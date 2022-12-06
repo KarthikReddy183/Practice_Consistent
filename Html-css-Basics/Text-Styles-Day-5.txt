@@ -1,0 +1,88 @@
+# In CSS we use WIDTH Property to force the text to go into New line !!! Also by decreasing the value of width property the content will adjust accordingly 
+  with newer lines. 
+
+# LINE-HEIGHT CSS property is used to set the distance between lines of text. This is like setting the space between the lines. [ Do check this once ] 
+
+# By Default the <p> paragraph element comes with A Margin of some value maybe!!!
+
+# HTML ENTITY : These are some special characters. For example like tickmark or star or asterisk etc...
+
+# To reset the default margin of any direction for a HTML element we need to set it to 0. 
+
+  Ex: margin-top : 0; 
+
+
+
+## If we want to set the default/same CSS proeprty for all the HTML elements present then we can style them like below 
+
+   Ex : p { font-family : arial; Margin-top : 0; } - This styling wll reflect to all the Paragraphs present in our Web page, thus eliminating the duplicates. 
+
+
+
+# ex:     
+
+<style>
+
+p 
+{
+  background-color: aliceblue;
+  margin-top: 0;
+}
+
+.btn-1
+{
+  background-color: beige;
+  margin-top: 20px;
+}
+
+</style> 
+
+
+
+
+For the above CSS code we can see that margin top property has been assigned to an Paragraph element twice. So which value does web browser takes ? 
+
+A: This will depends on the CSS SPECIFICITY, basically p represents all the paragraphs in web page, but .btn-1 will specifically represents an Button. So 
+   due to this reason margin top : 20p will be applied to that specific HTML element. 
+
+
+# Here P & .btn-1 is called as Selectors. 
+
+# Class Name Selector > Element name S
+
+
+
+# <Span> </Span>  - Span tag in HTML is used only if we had to style specific part of Text in a paragraph or headings or text. 
+
+  We can add a class name and we can style it in whatever way we want to. 
+
+# 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
