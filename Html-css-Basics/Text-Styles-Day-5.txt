@@ -1,2 +1,0 @@
-CSS BOX MODEL : check it and understand further by using it. 
-
